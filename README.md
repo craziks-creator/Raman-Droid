@@ -1,2 +1,2 @@
 # Raman-Droid
-This is a food scanner app. 😎🍴🍕🍔
+This is a spectrum scanning app. 😎
